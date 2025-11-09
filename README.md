@@ -6,7 +6,7 @@ This project implements a modular, pipeline-based approach to build, train, and 
 
 ## Project Structure
 
-```
+```txt
 assessment_main/
 ├── README.md                           # This file - project overview and setup
 ├── requirements.txt                     # Python dependencies
