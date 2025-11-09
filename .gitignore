@@ -181,3 +181,6 @@ wandb/
 data/
 raw_data/
 processed_data/
+
+# AI instruction files
+CLAUDE.md
